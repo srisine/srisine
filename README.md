@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-<!--
+I am Shaurya, a high school student who is intrested in programming and physics! I like to create cool things that are challenging cuz it looks cool. 
+
+I use vim BTW.
+
+<!--  
 **srisine/srisine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
