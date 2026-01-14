@@ -2,6 +2,8 @@
 
 I am Shaurya, a high school student who is intrested in programming and physics! I like to create cool things that are challenging cuz it looks cool. 
 
+Check out my website for more info -> [srisine.github.io](https://srisine.github.io/)
+
 I use vim BTW.
 
 <!--  
